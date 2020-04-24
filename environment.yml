@@ -5,7 +5,6 @@ channels:
 dependencies:
     - python=3.6
     - dask
-    - glob
     - scipy
     - scikit-learn
     - matplotlib
