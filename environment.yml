@@ -1,0 +1,14 @@
+name: single_profile
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.6
+    - dask
+    - glob
+    - scipy
+    - scikit-learn
+    - matplotlib
+    - netcdf4
+    - numpy
+    - xarray
